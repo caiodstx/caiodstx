@@ -14,12 +14,12 @@ export default () => ({
   ],
   technologies: {
     frontEnd: {
-      js: ["vue"],
+      js: ["vue", "typescript"],
       css: ["tailwind", "bootstrap", "sass"]
     },
     backEnd: {
       php: ["laravel"],
-      misc: ["bash", "docker"]
+      misc: ["bash", "docker", "postman"]
     },
     databases: ["mysql"]
   },
