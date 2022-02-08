@@ -1,8 +1,5 @@
 # Caio Da Silva 👨🏻‍💻
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/10780031/)
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiodstx/)](https://www.linkedin.com/in/caiodstx/)
 👨‍🎓 Currently learnig fullstack web development in a BOOTCAMP by ✨[Factoría F5](https://github.com/FactoriaF5-Asturias)✨
 ```js
 export default () => ({
