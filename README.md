@@ -37,4 +37,4 @@ export default () => ({
 
 ---
 
-⭐️ From [caiodstx](https://github.com/caiodstx)
+⭐️ From [caiodstx](https://github.com/caiodstx).
