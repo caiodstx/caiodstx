@@ -1,7 +1,9 @@
 # Caio Da Silva 👨🏻‍💻
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiodstx/)](https://www.linkedin.com/in/caiodstx/)
 
-👨‍🎓 Currently learnig fullstack web development in a BOOTCAMP by ✨[Factoría F5](https://github.com/FactoriaF5-Asturias)✨
+Junior Full-Stack Web Developer ✨.
+
+Currently working on improving my skills to bocome a better developer.
 
 ## :hammer_and_wrench: Tools and stacks:
 
