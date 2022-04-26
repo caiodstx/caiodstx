@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **caiodasilvatx@gmail.com**
 
-- ⚡ Fun fact **I started learning web development at Factoría F5.**
+- ⚡ Fun fact: **I started learning web development at Factoría F5.**
 
 
 <h3 align="left">Languages and Tools:</h3>
