@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Laravel, Git, HTML, CSS.**
 
-- 📫 How to reach me **caiodasilvatx@gmail.com**
+- 📫 How to reach me **caio@dasilvatx.com**
 
 - ⚡ Fun fact: **I started learning web development at Factoría F5.**
 
